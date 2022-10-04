@@ -31,7 +31,7 @@ function Login() {
             </div>
             <div className='gap'>
               
-              <input type="text" placeholder='Brief Description' className="long"/>
+              <textarea placeholder='Brief Description' className="long"/>
             </div>
             <button className='click'>Send</button>
            </div>

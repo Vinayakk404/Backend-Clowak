@@ -55,11 +55,12 @@
   .long{
     width: 400px;
     height: 200px;
-    border-radius: 35px;
+    border-radius: 15px;
     box-shadow: 11px 12px 13px 12px rgba(216, 213, 216, 0.895); 
     border: none;
     outline: none;
     background-color: #fff;
+    text-align: start;
   }
   
   .mail {
