@@ -1,0 +1,98 @@
+.main {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-color: rgb(rgb(0, 255, 187), green, blue);
+  }
+  
+  .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    width: 38%;
+    box-shadow: 11px 12px 13px 12px rgba(14, 0, 11, 0.895);
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: white;
+  }
+  
+  
+  
+  .image {
+    padding: top 18px;
+    ;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .contain {
+    background-color: rgb(rgb(255, 0, 191), green, blue);
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    height: 115px;
+    width: 115px;
+  }
+  
+  .userpic {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    align-items: center;
+  }
+  
+  .name{
+    width: 300px;
+    height: 50px;
+    border-radius: 55px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+  }
+  
+  .long{
+    width: 450px;
+    height: 300px;
+    border-radius: 55px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+  }
+  
+  .mail {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px 0 0 25px;
+  }
+  
+  
+  .pwd {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px 0 0 25px;
+  }
+  
+  .name{
+    padding-left: 70px;
+    font-size: 20px;
+    
+  }
+  
+  
+  .gap{
+    padding-top: 20px;
+  }
+  
+  .click{
+    margin-top: 20px;
+    width: 70px;
+    height: 30px;
+    box-shadow: #888;
+    border-radius: 15px;
+    background-color: #fff;
+  }
